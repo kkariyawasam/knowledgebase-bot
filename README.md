@@ -12,6 +12,8 @@ This project is a chatbot designed to answer questions about Insurellm, an Insur
 - Implements **Gradio** for an interactive chat interface.
 
 ## UI Preview
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/6011af5a-6def-4f90-811a-40a072416942" />
+
 
 ## Prerequisites
 
